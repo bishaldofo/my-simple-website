@@ -1,14 +1,32 @@
+*{
+   margin: 0;
+   padding: 0;
+}
 .div1{
    background-color: yellow;
    padding: 20px;
    margin-bottom: 20px;
-   width: 200px;
+   width: 20%;
    display: inline-block;
+   vertical-align: top;
 }
 
 .div2{
    background-color: greenyellow;
    padding: 20px;
-   width: 200px;
+   width: 20%;
+   display: inline-block;
+   vertical-align: top;
+}
+
+.div3{
+   width: 20%;
+   vertical-align: top;
+   display: inline-block;
+}
+
+.div4{
+   width: 20%;
+   vertical-align: top;
    display: inline-block;
 }
