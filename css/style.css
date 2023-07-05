@@ -21,12 +21,12 @@
 
 .div3{
    width: 20%;
-   vertical-align: top;
+   vertical-align: bottom;
    display: inline-block;
 }
 
 .div4{
    width: 20%;
-   vertical-align: top;
+   vertical-align: bottom;
    display: inline-block;
 }
