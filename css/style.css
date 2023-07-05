@@ -2,7 +2,7 @@
    margin: 0;
    padding: 0;
 }
-.div1{
+.div_one{
    background-color: yellow;
    padding: 20px;
    margin-bottom: 20px;
@@ -11,7 +11,7 @@
    vertical-align: top;
 }
 
-.div2{
+.div_two{
    background-color: greenyellow;
    padding: 20px;
    width: 20%;
@@ -19,13 +19,13 @@
    vertical-align: top;
 }
 
-.div3{
+.div_three{
    width: 20%;
    vertical-align: bottom;
    display: inline-block;
 }
 
-.div4{
+.div_four{
    width: 20%;
    vertical-align: bottom;
    display: inline-block;
