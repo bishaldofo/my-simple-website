@@ -21,12 +21,12 @@
 
 .div_three{
    width: 20%;
-   vertical-align: bottom;
    display: inline-block;
+   vertical-align: top;
 }
 
 .div_four{
    width: 20%;
-   vertical-align: bottom;
    display: inline-block;
+   vertical-align: top;
 }
